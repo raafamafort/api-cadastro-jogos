@@ -1,0 +1,84 @@
+{
+    "titulo": "Minecraft",
+    "desenvolvedora": "Mojang Studios",
+    "distribuidora": "Mojang Studios",
+    "idiomas": "Português, Inglês, Espanhol, Francês, Alemão, Italiano, Japonês, Coreano, Chinês",
+    "jogadores": "1",
+    "lancamento": "2011",
+    "genero": "SIMULADOR",
+    "requisitos": {
+        "sistema": "Windows 7 e posteriores",
+        "processador": "Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz ou equivalente",
+        "memoria": "4 GB RAM",
+        "placa": "Intel HD Graphics 4000 (Ivy Bridge) ou AMD Radeon R5 series (Kaveri line) com OpenGL 4.4 / NVIDIA GeForce 400 Series ou AMD Radeon HD 7000 series com OpenGL 4.4",
+        "armazenamento": "At least 1 GB for game core, maps and other files"
+    }
+}
+
+{
+    "titulo": "Counter-Strike: Global Offensive",
+    "desenvolvedora": "Valve Corporation",
+    "distribuidora": "Valve Corporation",
+    "idiomas": "Português, Inglês, Espanhol, Francês, Alemão, Italiano",
+    "jogadores": "4",
+    "lancamento": "2012",
+    "genero": "TIRO",
+    "requisitos": {
+        "sistema": "Windows 7/Vista/XP",
+        "processador": "Intel Core 2 Duo E6600 ou AMD Phenom X3 8750 ou superior",
+        "memoria": "2 GB RAM",
+        "placa": "Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0",
+        "armazenamento": "15 GB disponíveis"
+    }
+}
+
+{
+    "titulo": "The Witcher 3: Wild Hunt",
+    "desenvolvedora": "CD Projekt Red",
+    "distribuidora": "CD Projekt",
+    "idiomas": "Português, Inglês, Espanhol, Francês, Alemão, Italiano, Japonês, Coreano, Chinês",
+    "jogadores": "1",
+    "lancamento": "2015",
+    "genero": "RPG",
+    "requisitos": {
+        "sistema": "Windows 7 64-bit",
+        "processador": "Intel Core i5-2500K 3.3 GHz / AMD Phenom II X4 940",
+        "memoria": "6 GB RAM",
+        "placa": "Nvidia GeForce GTX 660 / AMD Radeon HD 7870",
+        "armazenamento": "35 GB disponíveis"
+    }
+}
+
+{
+    "titulo": "Grand Theft Auto V",
+    "desenvolvedora": "Rockstar North",
+    "distribuidora": "Rockstar Games",
+    "idiomas": "Português, Inglês, Espanhol, Francês, Alemão, Italiano, Japonês, Coreano, Chinês",
+    "jogadores": "2",
+    "lancamento": "2013",
+    "genero": "ACAO",
+    "requisitos": {
+        "sistema": "Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1",
+        "processador": "Intel Core i5 3470 @ 3.2GHZ (4 CPUs) / AMD X8 FX-8350 @ 4GHZ (8 CPUs)",
+        "memoria": "8 GB RAM",
+        "placa": "NVIDIA GTX 660 2GB / AMD HD7870 2GB",
+        "armazenamento": "72 GB disponíveis"
+    }
+}
+
+{
+    "titulo": "Rocket League",
+    "desenvolvedora": "Psyonix",
+    "distribuidora": "Psyonix",
+    "idiomas": "Português, Inglês, Espanhol, Francês, Alemão, Italiano, Japonês, Coreano, Chinês",
+    "jogadores": "4",
+    "lancamento": "2015",
+    "genero": "ESPORTE",
+    "requisitos": {
+        "sistema": "Windows 7 (64 bit) ou superior",
+        "processador": "2.5 GHz Dual core",
+        "memoria": "4 GB RAM",
+        "placa": "NVIDIA GeForce 760, AMD Radeon R7 270X, ou melhor",
+        "armazenamento": "20 GB disponíveis"
+    }
+}

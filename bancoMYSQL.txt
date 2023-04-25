@@ -1,0 +1,17 @@
+CREATE TABLE jogos (
+    id BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
+    titulo VARCHAR(255) NOT NULL,
+    desenvolvedora VARCHAR(255) NOT NULL,
+    distribuidora VARCHAR(255),
+    idiomas VARCHAR(255) NOT NULL,
+    jogadores CHAR(1) NOT NULL,
+    lancamento CHAR(4) NOT NULL,
+    genero VARCHAR(50) NOT NULL,
+    sistema VARCHAR(255),
+    processador VARCHAR(255) NOT NULL,
+    memoria VARCHAR(255) NOT NULL,
+    placa VARCHAR(255) NOT NULL,
+    armazenamento VARCHAR(255) NOT NULL,
+    ativo TINYINT(1) NOT NULL,
+    PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
